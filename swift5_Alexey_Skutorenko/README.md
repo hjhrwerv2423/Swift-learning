@@ -1,4 +1,5 @@
-Lessons and homework by Alex Skutorenko rewriten in Swift 5 (Xcode Version 13.4.1)
+Lessons and homework for [Alex Skutorenko Swift lessons](https://www.youtube.com/watch?v=WNMFljBCOP8&list=PL6724Ll8v6UhOq6Otjw-rUPFsZVmoCLFm&index=1) rewriten in Swift 5 (Xcode Version 13.4.1)
+
 
 Content:
 - Lesson 1: Basic
