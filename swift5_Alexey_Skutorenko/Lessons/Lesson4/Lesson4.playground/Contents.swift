@@ -1,33 +1,30 @@
 // Optional
-
 var apples : Int? = 5
 
 //apples = nil
 
-
 if apples == nil {
-    println("nil apples")
+    print("nil apples")
 } else {
-    println(apples)
-    
+    print(apples)
     apples! += 2
 }
 
 if var number = apples {
     number += number
 } else {
-    println("nil apples")
+    print("nil apples")
 }
 
 let age = "26"
 
-if age.toInt() != nil {
-    let ageNumber = age.toInt()!
-    println("My age is \(ageNumber)")
+if Int(age) != nil {
+    let ageNumber = Int(age)!
+    print("My age is \(ageNumber)")
 }
 
-if let myAge = age.toInt() {
-    println("\(myAge)")
+if let myAge = Int(age) {
+    print("\(myAge)")
 }
 
 var apple2 : Int! = nil
@@ -38,7 +35,3 @@ apple2 = 2
 assert(apple2 != nil, "oh no!")
 
 //apple2 += 2
-
-
-
-
