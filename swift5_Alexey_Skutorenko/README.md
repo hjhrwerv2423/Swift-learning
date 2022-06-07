@@ -1,10 +1,10 @@
-Lessons and homework by Alex Skutorenko rewriten in Swift 5.
+Lessons and homework by Alex Skutorenko rewriten in Swift 5 (Xcode Version 13.4.1)
 
 Content:
-- Lesson 1:
-- Lesson 2:
-- Lesson 3:
-- Lesson 4:
+- Lesson 1: Basic
+- Lesson 2: Base types
+- Lesson 3: Tuples
+- Lesson 4: Optional types
 - Lesson 5:
 - Lesson 6:
 - Lesson 7:
